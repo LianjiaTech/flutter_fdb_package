@@ -51,7 +51,10 @@ Flutter应用的调试工具，面向完整开发过程的，协助采集性能�
 
 ### 入口组件
 
-<img src="assets/entry_widget.gif" alt="entry_widget" style="zoom:25%;" />
+
+<div align=left>
+<img src=assets/entry_widget.gif  width=30%/>
+</div>
 
 FlutterLogo图标可拖动，点击关闭当前功能并展开功能面板，再次点击收起功能面板。
 
@@ -59,21 +62,26 @@ FlutterLogo图标可拖动，点击关闭当前功能并展开功能面板，再
 
 #### 控件拾取
 
-<img src="assets/widget_kit.gif" alt="widget_kit" style="zoom:25%;" align="left" />
-
+<div align=left>
+<img src=assets/widget_kit.gif  width=30%/>
+</div>
 
 
 拾取Widget组件信息，支持**文本编辑**
 
 #### ui标尺
 
-<img src="assets/ui_ruler.png" alt="ui_ruler" style="zoom:15%;" align="left" />
+<div align=left>
+<img src=assets/ui_ruler.png  width=30%/>
+</div>
 
 可自动拖动的UI标尺，用于辅助**对齐、尺寸**等需求
 
 #### 取色器
 
-<img src="assets/color.png" alt="ui_ruler" style="zoom:15%;" align="left" />
+<div align=left>
+<img src=assets/color.png  width=30%/>
+</div>
 
 可以拾取屏幕上任意点的像素，辅助取色
 
@@ -81,7 +89,9 @@ FlutterLogo图标可拖动，点击关闭当前功能并展开功能面板，再
 
 #### 帧率检测
 
-<img src="assets/fps.png" alt="memory" style="zoom:15%;" align="left" />
+<div align=left>
+<img src=assets/fps.png  width=30%/>
+</div>
 
 查看一段时间内的帧率信息
 
@@ -89,7 +99,10 @@ FlutterLogo图标可拖动，点击关闭当前功能并展开功能面板，再
 
 #### 内存信息
 
-<img src="assets/memory.gif" alt="memory" style="zoom:15%;" align="left" />
+<div align=left>
+<img src=assets/memory.gif  width=30%/>
+</div>
+
 
 查询总内存和已使用内存，分组查看类内存，以及对象详情
 
@@ -97,7 +110,10 @@ FlutterLogo图标可拖动，点击关闭当前功能并展开功能面板，再
 
 #### 页面代码
 
-<img src="assets/code.gif" alt="code" style="zoom:15%;" align="left" />
+<div align=left>
+<img src=assets/code.gif  width=30%/>
+</div>
+
 
 默认展示当前页面代码，可编辑查询任意仓库的代码
 
